@@ -19,9 +19,9 @@ int main(int argc, char** argv) {
     // === CONFIGURAÇÃO DE PARÂMETROS NTRU ===
     NTRUParams params;
     params.N = 2003; // Deve ser >= tamanho da mensagem
-    params.p = 127;
-    params.q = 2053;
-    params.d = 11;
+    params.p = 257;
+    params.q = 3343;
+    params.d = 13;
 
     // === GERAÇÃO DE CHAVES ===
     std::cout << "[INFO] Gerando chave NTRU..." << std::endl;

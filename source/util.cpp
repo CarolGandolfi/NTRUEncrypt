@@ -80,7 +80,7 @@ std::string toText(const Polynomial& p) {
         int c = p[i];
 
         // Converte apenas caracteres ASCII visíveis (0 a 126), substitui os outros por '.'
-        if (c >= 0 && c <= 126)
+        if (c >= 0 && c <= 255)
             result += static_cast<char>(c);
         else
             result += '.';
