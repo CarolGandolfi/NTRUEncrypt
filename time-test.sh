@@ -12,7 +12,8 @@ for test in $(ls test-cases | grep -v "teste.txt"); do
 
     if [[ $1 == "times-only" ]]; then
         perl -0777 -i -pe "s/====    Plain.*?Plain Text ====//sg" $TEST_FILE > /dev/null
-        perl -0777 -i -pe "s/===    Cipher.*?Cipher Text ===//sg" $TEST_FILE > /dev/null
+        perl -0777 -i -pe "s/====    Decrypted.*?Decrypted Text ====//sg" $TEST_FILE > /dev/null
+        perl -0777 -i -pe "s/===    Cipher.*?Cipher Coeffs ===//sg" $TEST_FILE > /dev/null
     fi
 
 done
