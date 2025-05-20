@@ -18,7 +18,7 @@ int main(int argc, char** argv) {
 
     // === CONFIGURAÇÃO DE PARÂMETROS NTRU ===
     NTRUParams params;
-    params.N = 1543; // Deve ser >= tamanho da mensagem
+    params.N = 2003; // Deve ser >= tamanho da mensagem
     params.p = 127;
     params.q = 2053;
     params.d = 11;
