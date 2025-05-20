@@ -19,5 +19,6 @@ void printPolynomial(const std::vector<int>& poly);
 std::string get_message_from_file(std::string filename);
 Polynomial fromText(const std::string& text, int N);
 std::string toText(const std::vector<int>& poly);
+void saveToFile(const std::string& content, const std::string& filename);
 
 #endif

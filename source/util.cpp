@@ -69,7 +69,7 @@ std::string get_message_from_file(std::string filename) {
 Polynomial fromText(const std::string& text, int N) {
     Polynomial poly(N);
     for (int i = 0; i < N && i < (int)text.size(); ++i) {
-        poly[i] = static_cast<int>(text[i]);
+        poly[i] = static_cast<unsigned char>(text[i]); 
     }
     return poly;
 }
@@ -78,12 +78,23 @@ std::string toText(const Polynomial& p) {
     std::string result;
     for (int i = 0; i < p.size(); ++i) {
         int c = p[i];
-
-        // Converte apenas caracteres ASCII visíveis (0 a 126), substitui os outros por '.'
         if (c >= 0 && c <= 255)
             result += static_cast<char>(c);
         else
-            result += '.';
+            result += '?';
     }
     return result;
+}
+
+
+void saveToFile(const std::string& content, const std::string& filename) {
+    // Cria o arquivo de saída
+    
+    std::ofstream outFile(filename + ".txt");
+    if (!outFile.is_open()) {
+        throw std::runtime_error("Não foi possível criar o arquivo result.tst");
+    }
+
+    outFile << content;
+    outFile.close();
 }

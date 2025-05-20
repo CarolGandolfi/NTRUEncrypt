@@ -52,7 +52,9 @@ int main(int argc, char** argv) {
     std::cout << "***Time to Decrypt: " << decryptTime.count() << " us" << std::endl;
 
     std::cout << "====    Decrypted Text     ====" << std::endl;
-    std::cout << toText(decrypted) << std::endl;
+    std::string decryptedText = toText(decrypted);
+    // saveToFile(decryptedText, "decrypted");
+    std::cout << decryptedText << std::endl;
     std::cout << "==== End of Decrypted Text ====" << std::endl;
 
     return 0;
