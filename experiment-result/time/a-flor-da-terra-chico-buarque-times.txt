@@ -1,61 +1,5 @@
 Execution 1
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 341018 us
 ===    Cipher Coeffs   ===
@@ -121,63 +65,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 2
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 312126 us
 ===    Cipher Coeffs   ===
@@ -243,63 +131,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 3
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 314670 us
 ===    Cipher Coeffs   ===
@@ -365,63 +197,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 4
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 316382 us
 ===    Cipher Coeffs   ===
@@ -487,63 +263,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 5
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 323688 us
 ===    Cipher Coeffs   ===
@@ -609,63 +329,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 6
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 312365 us
 ===    Cipher Coeffs   ===
@@ -731,63 +395,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 7
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 317251 us
 ===    Cipher Coeffs   ===
@@ -853,63 +461,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 8
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 342251 us
 ===    Cipher Coeffs   ===
@@ -975,63 +527,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 9
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 316293 us
 ===    Cipher Coeffs   ===
@@ -1097,63 +593,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 10
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 340986 us
 ===    Cipher Coeffs   ===
@@ -1219,63 +659,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 11
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 314443 us
 ===    Cipher Coeffs   ===
@@ -1341,63 +725,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 12
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 314944 us
 ===    Cipher Coeffs   ===
@@ -1463,63 +791,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 13
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308737 us
 ===    Cipher Coeffs   ===
@@ -1585,63 +857,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 14
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 323787 us
 ===    Cipher Coeffs   ===
@@ -1707,63 +923,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 15
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 310621 us
 ===    Cipher Coeffs   ===
@@ -1829,63 +989,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 16
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319416 us
 ===    Cipher Coeffs   ===
@@ -1951,63 +1055,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 17
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319221 us
 ===    Cipher Coeffs   ===
@@ -2073,63 +1121,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 18
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 343419 us
 ===    Cipher Coeffs   ===
@@ -2195,63 +1187,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 19
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 316914 us
 ===    Cipher Coeffs   ===
@@ -2317,63 +1253,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 20
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 311121 us
 ===    Cipher Coeffs   ===
@@ -2439,63 +1319,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 21
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 320314 us
 ===    Cipher Coeffs   ===
@@ -2561,63 +1385,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 22
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308781 us
 ===    Cipher Coeffs   ===
@@ -2683,63 +1451,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 23
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 316327 us
 ===    Cipher Coeffs   ===
@@ -2805,63 +1517,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 24
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 313689 us
 ===    Cipher Coeffs   ===
@@ -2927,63 +1583,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 25
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 343931 us
 ===    Cipher Coeffs   ===
@@ -3049,63 +1649,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 26
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 310430 us
 ===    Cipher Coeffs   ===
@@ -3171,63 +1715,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 27
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 318265 us
 ===    Cipher Coeffs   ===
@@ -3293,63 +1781,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 28
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 322366 us
 ===    Cipher Coeffs   ===
@@ -3415,63 +1847,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 29
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 352613 us
 ===    Cipher Coeffs   ===
@@ -3537,63 +1913,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 30
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 313359 us
 ===    Cipher Coeffs   ===
@@ -3659,63 +1979,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 31
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 342048 us
 ===    Cipher Coeffs   ===
@@ -3781,63 +2045,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 32
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 307689 us
 ===    Cipher Coeffs   ===
@@ -3903,63 +2111,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 33
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 338906 us
 ===    Cipher Coeffs   ===
@@ -4025,63 +2177,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 34
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 340051 us
 ===    Cipher Coeffs   ===
@@ -4147,63 +2243,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 35
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 307558 us
 ===    Cipher Coeffs   ===
@@ -4269,63 +2309,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 36
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 335500 us
 ===    Cipher Coeffs   ===
@@ -4391,63 +2375,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 37
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 311474 us
 ===    Cipher Coeffs   ===
@@ -4513,63 +2441,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 38
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 336086 us
 ===    Cipher Coeffs   ===
@@ -4635,63 +2507,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 39
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309329 us
 ===    Cipher Coeffs   ===
@@ -4757,63 +2573,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 40
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 337660 us
 ===    Cipher Coeffs   ===
@@ -4879,63 +2639,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 41
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309039 us
 ===    Cipher Coeffs   ===
@@ -5001,63 +2705,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 42
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 338786 us
 ===    Cipher Coeffs   ===
@@ -5123,63 +2771,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 43
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309475 us
 ===    Cipher Coeffs   ===
@@ -5245,63 +2837,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 44
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 336270 us
 ===    Cipher Coeffs   ===
@@ -5367,63 +2903,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 45
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309920 us
 ===    Cipher Coeffs   ===
@@ -5489,63 +2969,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 46
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 337066 us
 ===    Cipher Coeffs   ===
@@ -5611,63 +3035,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 47
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 307510 us
 ===    Cipher Coeffs   ===
@@ -5733,63 +3101,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 48
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 305992 us
 ===    Cipher Coeffs   ===
@@ -5855,63 +3167,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 49
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 342486 us
 ===    Cipher Coeffs   ===
@@ -5977,63 +3233,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 50
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308568 us
 ===    Cipher Coeffs   ===
@@ -6099,63 +3299,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 51
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 338233 us
 ===    Cipher Coeffs   ===
@@ -6221,63 +3365,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 52
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 306588 us
 ===    Cipher Coeffs   ===
@@ -6343,63 +3431,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 53
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 351484 us
 ===    Cipher Coeffs   ===
@@ -6465,63 +3497,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 54
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 307303 us
 ===    Cipher Coeffs   ===
@@ -6587,63 +3563,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 55
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 334449 us
 ===    Cipher Coeffs   ===
@@ -6709,63 +3629,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 56
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 338935 us
 ===    Cipher Coeffs   ===
@@ -6831,63 +3695,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 57
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308763 us
 ===    Cipher Coeffs   ===
@@ -6953,63 +3761,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 58
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 337131 us
 ===    Cipher Coeffs   ===
@@ -7075,63 +3827,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 59
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 306532 us
 ===    Cipher Coeffs   ===
@@ -7197,63 +3893,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 60
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 353720 us
 ===    Cipher Coeffs   ===
@@ -7319,63 +3959,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 61
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309254 us
 ===    Cipher Coeffs   ===
@@ -7441,63 +4025,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 62
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 337109 us
 ===    Cipher Coeffs   ===
@@ -7563,63 +4091,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 63
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 340422 us
 ===    Cipher Coeffs   ===
@@ -7685,63 +4157,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 64
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 315013 us
 ===    Cipher Coeffs   ===
@@ -7807,63 +4223,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 65
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 338665 us
 ===    Cipher Coeffs   ===
@@ -7929,63 +4289,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 66
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 306401 us
 ===    Cipher Coeffs   ===
@@ -8051,63 +4355,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 67
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 338083 us
 ===    Cipher Coeffs   ===
@@ -8173,63 +4421,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 68
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 306993 us
 ===    Cipher Coeffs   ===
@@ -8295,63 +4487,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 69
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 338249 us
 ===    Cipher Coeffs   ===
@@ -8417,63 +4553,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 70
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309280 us
 ===    Cipher Coeffs   ===
@@ -8539,63 +4619,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 71
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 337711 us
 ===    Cipher Coeffs   ===
@@ -8661,63 +4685,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 72
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 321330 us
 ===    Cipher Coeffs   ===
@@ -8783,63 +4751,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 73
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 334323 us
 ===    Cipher Coeffs   ===
@@ -8905,63 +4817,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 74
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 316846 us
 ===    Cipher Coeffs   ===
@@ -9027,63 +4883,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 75
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 341147 us
 ===    Cipher Coeffs   ===
@@ -9149,63 +4949,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 76
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 306076 us
 ===    Cipher Coeffs   ===
@@ -9271,63 +5015,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 77
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308342 us
 ===    Cipher Coeffs   ===
@@ -9393,63 +5081,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 78
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 344014 us
 ===    Cipher Coeffs   ===
@@ -9515,63 +5147,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 79
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309473 us
 ===    Cipher Coeffs   ===
@@ -9637,63 +5213,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 80
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 336107 us
 ===    Cipher Coeffs   ===
@@ -9759,63 +5279,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 81
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 339277 us
 ===    Cipher Coeffs   ===
@@ -9881,63 +5345,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 82
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 337246 us
 ===    Cipher Coeffs   ===
@@ -10003,63 +5411,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 83
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308061 us
 ===    Cipher Coeffs   ===
@@ -10125,63 +5477,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 84
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 340086 us
 ===    Cipher Coeffs   ===
@@ -10247,63 +5543,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 85
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 306340 us
 ===    Cipher Coeffs   ===
@@ -10369,63 +5609,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 86
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 333592 us
 ===    Cipher Coeffs   ===
@@ -10491,63 +5675,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 87
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 310648 us
 ===    Cipher Coeffs   ===
@@ -10613,63 +5741,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 88
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 332832 us
 ===    Cipher Coeffs   ===
@@ -10735,63 +5807,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 89
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 310953 us
 ===    Cipher Coeffs   ===
@@ -10857,63 +5873,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 90
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 341961 us
 ===    Cipher Coeffs   ===
@@ -10979,63 +5939,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 91
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 312261 us
 ===    Cipher Coeffs   ===
@@ -11101,63 +6005,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 92
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 333934 us
 ===    Cipher Coeffs   ===
@@ -11223,63 +6071,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 93
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308135 us
 ===    Cipher Coeffs   ===
@@ -11345,63 +6137,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 94
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 336132 us
 ===    Cipher Coeffs   ===
@@ -11467,63 +6203,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 95
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 307704 us
 ===    Cipher Coeffs   ===
@@ -11589,63 +6269,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 96
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 344243 us
 ===    Cipher Coeffs   ===
@@ -11711,63 +6335,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 97
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 313545 us
 ===    Cipher Coeffs   ===
@@ -11833,63 +6401,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 98
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 343941 us
 ===    Cipher Coeffs   ===
@@ -11955,63 +6467,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 99
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 310383 us
 ===    Cipher Coeffs   ===
@@ -12077,63 +6533,7 @@ O que não tem juízo                                                           
 ==== End of Decrypted Text ====
 
 Execution 100
-====    Plain Text     ====
-O que será, que será?
-Que andam suspirando pelas alcovas
-Que andam sussurrando em versos e trovas
-Que andam combinando no breu das tocas
-Que anda nas cabeças, anda nas bocas
-Que andam acendendo velas nos becos
-Que estão falando alto pelos botecos
-E gritam nos mercados que com certeza
-Está na natureza
 
-Será, que será?
-O que não tem certeza nem nunca terá
-O que não tem conserto nem nunca terá
-O que não tem tamanho
-
-O que será, que será?
-Que vive nas ideias desses amantes
-Que cantam os poetas mais delirantes
-Que juram os profetas embriagados
-Que está na romaria dos mutilados
-Que está na fantasia dos infelizes
-Que está no dia a dia das meretrizes
-No plano dos bandidos, dos desvalidos
-Em todos os sentidos
-
-Será, que será?
-O que não tem decência nem nunca terá
-O que não tem censura nem nunca terá
-O que não faz sentido
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-
-O que será, que será?
-Que todos os avisos não vão evitar
-Por que todos os risos vão desafiar
-Por que todos os sinos irão repicar
-Por que todos os hinos irão consagrar
-E todos os meninos vão desembestar
-E todos os destinos irão se encontrar
-E mesmo o Padre Eterno que nunca foi lá
-Olhando aquele inferno vai abençoar
-O que não tem governo nem nunca terá
-O que não tem vergonha nem nunca terá
-O que não tem juízo
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 333669 us
 ===    Cipher Coeffs   ===
