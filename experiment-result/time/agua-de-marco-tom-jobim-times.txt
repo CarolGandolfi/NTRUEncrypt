@@ -1,7 +1,5 @@
 Execution 1
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 335867 us
 ===    Cipher Coeffs   ===
@@ -13,9 +11,7 @@ Execution 1
 ==== End of Decrypted Text ====
 
 Execution 2
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308098 us
 ===    Cipher Coeffs   ===
@@ -27,9 +23,7 @@ Execution 2
 ==== End of Decrypted Text ====
 
 Execution 3
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 336183 us
 ===    Cipher Coeffs   ===
@@ -41,9 +35,7 @@ Execution 3
 ==== End of Decrypted Text ====
 
 Execution 4
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308487 us
 ===    Cipher Coeffs   ===
@@ -55,9 +47,7 @@ Execution 4
 ==== End of Decrypted Text ====
 
 Execution 5
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 315110 us
 ===    Cipher Coeffs   ===
@@ -69,9 +59,7 @@ Execution 5
 ==== End of Decrypted Text ====
 
 Execution 6
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 340818 us
 ===    Cipher Coeffs   ===
@@ -83,9 +71,7 @@ Execution 6
 ==== End of Decrypted Text ====
 
 Execution 7
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 313317 us
 ===    Cipher Coeffs   ===
@@ -97,9 +83,7 @@ Execution 7
 ==== End of Decrypted Text ====
 
 Execution 8
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309713 us
 ===    Cipher Coeffs   ===
@@ -111,9 +95,7 @@ Execution 8
 ==== End of Decrypted Text ====
 
 Execution 9
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 336499 us
 ===    Cipher Coeffs   ===
@@ -125,9 +107,7 @@ Execution 9
 ==== End of Decrypted Text ====
 
 Execution 10
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 309638 us
 ===    Cipher Coeffs   ===
@@ -139,9 +119,7 @@ Execution 10
 ==== End of Decrypted Text ====
 
 Execution 11
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 322422 us
 ===    Cipher Coeffs   ===
@@ -153,9 +131,7 @@ Execution 11
 ==== End of Decrypted Text ====
 
 Execution 12
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 308582 us
 ===    Cipher Coeffs   ===
@@ -167,9 +143,7 @@ Execution 12
 ==== End of Decrypted Text ====
 
 Execution 13
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 307883 us
 ===    Cipher Coeffs   ===
@@ -181,9 +155,7 @@ Execution 13
 ==== End of Decrypted Text ====
 
 Execution 14
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 307195 us
 ===    Cipher Coeffs   ===
@@ -195,9 +167,7 @@ Execution 14
 ==== End of Decrypted Text ====
 
 Execution 15
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 339606 us
 ===    Cipher Coeffs   ===
@@ -209,9 +179,7 @@ Execution 15
 ==== End of Decrypted Text ====
 
 Execution 16
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 313143 us
 ===    Cipher Coeffs   ===
@@ -223,9 +191,7 @@ Execution 16
 ==== End of Decrypted Text ====
 
 Execution 17
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319080 us
 ===    Cipher Coeffs   ===
@@ -237,9 +203,7 @@ Execution 17
 ==== End of Decrypted Text ====
 
 Execution 18
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 313598 us
 ===    Cipher Coeffs   ===
@@ -251,9 +215,7 @@ Execution 18
 ==== End of Decrypted Text ====
 
 Execution 19
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 341099 us
 ===    Cipher Coeffs   ===
@@ -265,9 +227,7 @@ Execution 19
 ==== End of Decrypted Text ====
 
 Execution 20
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 317001 us
 ===    Cipher Coeffs   ===
@@ -279,9 +239,7 @@ Execution 20
 ==== End of Decrypted Text ====
 
 Execution 21
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 318814 us
 ===    Cipher Coeffs   ===
@@ -293,9 +251,7 @@ Execution 21
 ==== End of Decrypted Text ====
 
 Execution 22
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 314961 us
 ===    Cipher Coeffs   ===
@@ -307,9 +263,7 @@ Execution 22
 ==== End of Decrypted Text ====
 
 Execution 23
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 322906 us
 ===    Cipher Coeffs   ===
@@ -321,9 +275,7 @@ Execution 23
 ==== End of Decrypted Text ====
 
 Execution 24
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 312744 us
 ===    Cipher Coeffs   ===
@@ -335,9 +287,7 @@ Execution 24
 ==== End of Decrypted Text ====
 
 Execution 25
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 349335 us
 ===    Cipher Coeffs   ===
@@ -349,9 +299,7 @@ Execution 25
 ==== End of Decrypted Text ====
 
 Execution 26
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 318271 us
 ===    Cipher Coeffs   ===
@@ -363,9 +311,7 @@ Execution 26
 ==== End of Decrypted Text ====
 
 Execution 27
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 347322 us
 ===    Cipher Coeffs   ===
@@ -377,9 +323,7 @@ Execution 27
 ==== End of Decrypted Text ====
 
 Execution 28
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 337603 us
 ===    Cipher Coeffs   ===
@@ -391,9 +335,7 @@ Execution 28
 ==== End of Decrypted Text ====
 
 Execution 29
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 320291 us
 ===    Cipher Coeffs   ===
@@ -405,9 +347,7 @@ Execution 29
 ==== End of Decrypted Text ====
 
 Execution 30
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 328037 us
 ===    Cipher Coeffs   ===
@@ -419,9 +359,7 @@ Execution 30
 ==== End of Decrypted Text ====
 
 Execution 31
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 318458 us
 ===    Cipher Coeffs   ===
@@ -433,9 +371,7 @@ Execution 31
 ==== End of Decrypted Text ====
 
 Execution 32
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 341889 us
 ===    Cipher Coeffs   ===
@@ -447,9 +383,7 @@ Execution 32
 ==== End of Decrypted Text ====
 
 Execution 33
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 322939 us
 ===    Cipher Coeffs   ===
@@ -461,9 +395,7 @@ Execution 33
 ==== End of Decrypted Text ====
 
 Execution 34
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 341254 us
 ===    Cipher Coeffs   ===
@@ -475,9 +407,7 @@ Execution 34
 ==== End of Decrypted Text ====
 
 Execution 35
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319469 us
 ===    Cipher Coeffs   ===
@@ -489,9 +419,7 @@ Execution 35
 ==== End of Decrypted Text ====
 
 Execution 36
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 343884 us
 ===    Cipher Coeffs   ===
@@ -503,9 +431,7 @@ Execution 36
 ==== End of Decrypted Text ====
 
 Execution 37
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 317864 us
 ===    Cipher Coeffs   ===
@@ -517,9 +443,7 @@ Execution 37
 ==== End of Decrypted Text ====
 
 Execution 38
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 347336 us
 ===    Cipher Coeffs   ===
@@ -531,9 +455,7 @@ Execution 38
 ==== End of Decrypted Text ====
 
 Execution 39
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 320389 us
 ===    Cipher Coeffs   ===
@@ -545,9 +467,7 @@ Execution 39
 ==== End of Decrypted Text ====
 
 Execution 40
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319283 us
 ===    Cipher Coeffs   ===
@@ -559,9 +479,7 @@ Execution 40
 ==== End of Decrypted Text ====
 
 Execution 41
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 347510 us
 ===    Cipher Coeffs   ===
@@ -573,9 +491,7 @@ Execution 41
 ==== End of Decrypted Text ====
 
 Execution 42
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 318353 us
 ===    Cipher Coeffs   ===
@@ -587,9 +503,7 @@ Execution 42
 ==== End of Decrypted Text ====
 
 Execution 43
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 345255 us
 ===    Cipher Coeffs   ===
@@ -601,9 +515,7 @@ Execution 43
 ==== End of Decrypted Text ====
 
 Execution 44
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 320454 us
 ===    Cipher Coeffs   ===
@@ -615,9 +527,7 @@ Execution 44
 ==== End of Decrypted Text ====
 
 Execution 45
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 320619 us
 ===    Cipher Coeffs   ===
@@ -629,9 +539,7 @@ Execution 45
 ==== End of Decrypted Text ====
 
 Execution 46
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 351764 us
 ===    Cipher Coeffs   ===
@@ -643,9 +551,7 @@ Execution 46
 ==== End of Decrypted Text ====
 
 Execution 47
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 320012 us
 ===    Cipher Coeffs   ===
@@ -657,9 +563,7 @@ Execution 47
 ==== End of Decrypted Text ====
 
 Execution 48
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 343693 us
 ===    Cipher Coeffs   ===
@@ -671,9 +575,7 @@ Execution 48
 ==== End of Decrypted Text ====
 
 Execution 49
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 317476 us
 ===    Cipher Coeffs   ===
@@ -685,9 +587,7 @@ Execution 49
 ==== End of Decrypted Text ====
 
 Execution 50
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319583 us
 ===    Cipher Coeffs   ===
@@ -699,9 +599,7 @@ Execution 50
 ==== End of Decrypted Text ====
 
 Execution 51
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 318762 us
 ===    Cipher Coeffs   ===
@@ -713,9 +611,7 @@ Execution 51
 ==== End of Decrypted Text ====
 
 Execution 52
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 317327 us
 ===    Cipher Coeffs   ===
@@ -727,9 +623,7 @@ Execution 52
 ==== End of Decrypted Text ====
 
 Execution 53
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 320303 us
 ===    Cipher Coeffs   ===
@@ -741,9 +635,7 @@ Execution 53
 ==== End of Decrypted Text ====
 
 Execution 54
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 317815 us
 ===    Cipher Coeffs   ===
@@ -755,9 +647,7 @@ Execution 54
 ==== End of Decrypted Text ====
 
 Execution 55
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 314089 us
 ===    Cipher Coeffs   ===
@@ -769,9 +659,7 @@ Execution 55
 ==== End of Decrypted Text ====
 
 Execution 56
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 322323 us
 ===    Cipher Coeffs   ===
@@ -783,9 +671,7 @@ Execution 56
 ==== End of Decrypted Text ====
 
 Execution 57
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 314418 us
 ===    Cipher Coeffs   ===
@@ -797,9 +683,7 @@ Execution 57
 ==== End of Decrypted Text ====
 
 Execution 58
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 321770 us
 ===    Cipher Coeffs   ===
@@ -811,9 +695,7 @@ Execution 58
 ==== End of Decrypted Text ====
 
 Execution 59
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 312972 us
 ===    Cipher Coeffs   ===
@@ -825,9 +707,7 @@ Execution 59
 ==== End of Decrypted Text ====
 
 Execution 60
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319408 us
 ===    Cipher Coeffs   ===
@@ -839,9 +719,7 @@ Execution 60
 ==== End of Decrypted Text ====
 
 Execution 61
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 313400 us
 ===    Cipher Coeffs   ===
@@ -853,9 +731,7 @@ Execution 61
 ==== End of Decrypted Text ====
 
 Execution 62
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 340418 us
 ===    Cipher Coeffs   ===
@@ -867,9 +743,7 @@ Execution 62
 ==== End of Decrypted Text ====
 
 Execution 63
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 321011 us
 ===    Cipher Coeffs   ===
@@ -881,9 +755,7 @@ Execution 63
 ==== End of Decrypted Text ====
 
 Execution 64
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 339700 us
 ===    Cipher Coeffs   ===
@@ -895,9 +767,7 @@ Execution 64
 ==== End of Decrypted Text ====
 
 Execution 65
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319543 us
 ===    Cipher Coeffs   ===
@@ -909,9 +779,7 @@ Execution 65
 ==== End of Decrypted Text ====
 
 Execution 66
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 342918 us
 ===    Cipher Coeffs   ===
@@ -923,9 +791,7 @@ Execution 66
 ==== End of Decrypted Text ====
 
 Execution 67
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 314132 us
 ===    Cipher Coeffs   ===
@@ -937,9 +803,7 @@ Execution 67
 ==== End of Decrypted Text ====
 
 Execution 68
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 311838 us
 ===    Cipher Coeffs   ===
@@ -951,9 +815,7 @@ Execution 68
 ==== End of Decrypted Text ====
 
 Execution 69
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 342669 us
 ===    Cipher Coeffs   ===
@@ -965,9 +827,7 @@ Execution 69
 ==== End of Decrypted Text ====
 
 Execution 70
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 315440 us
 ===    Cipher Coeffs   ===
@@ -979,9 +839,7 @@ Execution 70
 ==== End of Decrypted Text ====
 
 Execution 71
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 321613 us
 ===    Cipher Coeffs   ===
@@ -993,9 +851,7 @@ Execution 71
 ==== End of Decrypted Text ====
 
 Execution 72
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 315166 us
 ===    Cipher Coeffs   ===
@@ -1007,9 +863,7 @@ Execution 72
 ==== End of Decrypted Text ====
 
 Execution 73
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 315977 us
 ===    Cipher Coeffs   ===
@@ -1021,9 +875,7 @@ Execution 73
 ==== End of Decrypted Text ====
 
 Execution 74
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 337091 us
 ===    Cipher Coeffs   ===
@@ -1035,9 +887,7 @@ Execution 74
 ==== End of Decrypted Text ====
 
 Execution 75
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 315931 us
 ===    Cipher Coeffs   ===
@@ -1049,9 +899,7 @@ Execution 75
 ==== End of Decrypted Text ====
 
 Execution 76
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319622 us
 ===    Cipher Coeffs   ===
@@ -1063,9 +911,7 @@ Execution 76
 ==== End of Decrypted Text ====
 
 Execution 77
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 312844 us
 ===    Cipher Coeffs   ===
@@ -1077,9 +923,7 @@ Execution 77
 ==== End of Decrypted Text ====
 
 Execution 78
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 339262 us
 ===    Cipher Coeffs   ===
@@ -1091,9 +935,7 @@ Execution 78
 ==== End of Decrypted Text ====
 
 Execution 79
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 340649 us
 ===    Cipher Coeffs   ===
@@ -1105,9 +947,7 @@ Execution 79
 ==== End of Decrypted Text ====
 
 Execution 80
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 321869 us
 ===    Cipher Coeffs   ===
@@ -1119,9 +959,7 @@ Execution 80
 ==== End of Decrypted Text ====
 
 Execution 81
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 344134 us
 ===    Cipher Coeffs   ===
@@ -1133,9 +971,7 @@ Execution 81
 ==== End of Decrypted Text ====
 
 Execution 82
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 317797 us
 ===    Cipher Coeffs   ===
@@ -1147,9 +983,7 @@ Execution 82
 ==== End of Decrypted Text ====
 
 Execution 83
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 343050 us
 ===    Cipher Coeffs   ===
@@ -1161,9 +995,7 @@ Execution 83
 ==== End of Decrypted Text ====
 
 Execution 84
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 325107 us
 ===    Cipher Coeffs   ===
@@ -1175,9 +1007,7 @@ Execution 84
 ==== End of Decrypted Text ====
 
 Execution 85
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 339027 us
 ===    Cipher Coeffs   ===
@@ -1189,9 +1019,7 @@ Execution 85
 ==== End of Decrypted Text ====
 
 Execution 86
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 319965 us
 ===    Cipher Coeffs   ===
@@ -1203,9 +1031,7 @@ Execution 86
 ==== End of Decrypted Text ====
 
 Execution 87
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 342262 us
 ===    Cipher Coeffs   ===
@@ -1217,9 +1043,7 @@ Execution 87
 ==== End of Decrypted Text ====
 
 Execution 88
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 355213 us
 ===    Cipher Coeffs   ===
@@ -1231,9 +1055,7 @@ Execution 88
 ==== End of Decrypted Text ====
 
 Execution 89
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 322475 us
 ===    Cipher Coeffs   ===
@@ -1245,9 +1067,7 @@ Execution 89
 ==== End of Decrypted Text ====
 
 Execution 90
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 350459 us
 ===    Cipher Coeffs   ===
@@ -1259,9 +1079,7 @@ Execution 90
 ==== End of Decrypted Text ====
 
 Execution 91
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 320026 us
 ===    Cipher Coeffs   ===
@@ -1273,9 +1091,7 @@ Execution 91
 ==== End of Decrypted Text ====
 
 Execution 92
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 318484 us
 ===    Cipher Coeffs   ===
@@ -1287,9 +1103,7 @@ Execution 92
 ==== End of Decrypted Text ====
 
 Execution 93
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 322017 us
 ===    Cipher Coeffs   ===
@@ -1301,9 +1115,7 @@ Execution 93
 ==== End of Decrypted Text ====
 
 Execution 94
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 311602 us
 ===    Cipher Coeffs   ===
@@ -1315,9 +1127,7 @@ Execution 94
 ==== End of Decrypted Text ====
 
 Execution 95
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 324361 us
 ===    Cipher Coeffs   ===
@@ -1329,9 +1139,7 @@ Execution 95
 ==== End of Decrypted Text ====
 
 Execution 96
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 313617 us
 ===    Cipher Coeffs   ===
@@ -1343,9 +1151,7 @@ Execution 96
 ==== End of Decrypted Text ====
 
 Execution 97
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 314389 us
 ===    Cipher Coeffs   ===
@@ -1357,9 +1163,7 @@ Execution 97
 ==== End of Decrypted Text ====
 
 Execution 98
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 315649 us
 ===    Cipher Coeffs   ===
@@ -1371,9 +1175,7 @@ Execution 98
 ==== End of Decrypted Text ====
 
 Execution 99
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 323041 us
 ===    Cipher Coeffs   ===
@@ -1385,9 +1187,7 @@ Execution 99
 ==== End of Decrypted Text ====
 
 Execution 100
-====    Plain Text     ====
 
-==== End of Plain Text ====
 [INFO] Gerando chave NTRU...
 ***Time to Encrypt: 341129 us
 ===    Cipher Coeffs   ===
