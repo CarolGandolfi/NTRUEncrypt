@@ -1,0 +1,800 @@
+Execution 1
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 309986 us
+
+***Time to Decrypt: 204838 us
+
+
+Execution 2
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 350128 us
+
+***Time to Decrypt: 236523 us
+
+
+Execution 3
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 310066 us
+
+***Time to Decrypt: 206197 us
+
+
+Execution 4
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 337558 us
+
+***Time to Decrypt: 224295 us
+
+
+Execution 5
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 338875 us
+
+***Time to Decrypt: 225320 us
+
+
+Execution 6
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313750 us
+
+***Time to Decrypt: 208470 us
+
+
+Execution 7
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 341605 us
+
+***Time to Decrypt: 228597 us
+
+
+Execution 8
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313098 us
+
+***Time to Decrypt: 208331 us
+
+
+Execution 9
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 339037 us
+
+***Time to Decrypt: 224362 us
+
+
+Execution 10
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 352683 us
+
+***Time to Decrypt: 238348 us
+
+
+Execution 11
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 310474 us
+
+***Time to Decrypt: 205143 us
+
+
+Execution 12
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 337649 us
+
+***Time to Decrypt: 222400 us
+
+
+Execution 13
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 346448 us
+
+***Time to Decrypt: 231276 us
+
+
+Execution 14
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 310843 us
+
+***Time to Decrypt: 205362 us
+
+
+Execution 15
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 342480 us
+
+***Time to Decrypt: 229109 us
+
+
+Execution 16
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 319913 us
+
+***Time to Decrypt: 214265 us
+
+
+Execution 17
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 342292 us
+
+***Time to Decrypt: 229455 us
+
+
+Execution 18
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 317313 us
+
+***Time to Decrypt: 205523 us
+
+
+Execution 19
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 322201 us
+
+***Time to Decrypt: 218772 us
+
+
+Execution 20
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 342027 us
+
+***Time to Decrypt: 231443 us
+
+
+Execution 21
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 343689 us
+
+***Time to Decrypt: 229478 us
+
+
+Execution 22
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315387 us
+
+***Time to Decrypt: 209828 us
+
+
+Execution 23
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 340089 us
+
+***Time to Decrypt: 225357 us
+
+
+Execution 24
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 340589 us
+
+***Time to Decrypt: 224530 us
+
+
+Execution 25
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313847 us
+
+***Time to Decrypt: 209103 us
+
+
+Execution 26
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 339954 us
+
+***Time to Decrypt: 226445 us
+
+
+Execution 27
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 311557 us
+
+***Time to Decrypt: 206611 us
+
+
+Execution 28
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 341894 us
+
+***Time to Decrypt: 226285 us
+
+
+Execution 29
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 312324 us
+
+***Time to Decrypt: 206805 us
+
+
+Execution 30
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 343168 us
+
+***Time to Decrypt: 227866 us
+
+
+Execution 31
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 314998 us
+
+***Time to Decrypt: 210360 us
+
+
+Execution 32
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 359565 us
+
+***Time to Decrypt: 246173 us
+
+
+Execution 33
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 312459 us
+
+***Time to Decrypt: 207156 us
+
+
+Execution 34
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 343639 us
+
+***Time to Decrypt: 230026 us
+
+
+Execution 35
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 325153 us
+
+***Time to Decrypt: 219623 us
+
+
+Execution 36
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 338532 us
+
+***Time to Decrypt: 224020 us
+
+
+Execution 37
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 311738 us
+
+***Time to Decrypt: 205972 us
+
+
+Execution 38
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 345288 us
+
+***Time to Decrypt: 228932 us
+
+
+Execution 39
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315334 us
+
+***Time to Decrypt: 209900 us
+
+
+Execution 40
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 348920 us
+
+***Time to Decrypt: 235019 us
+
+
+Execution 41
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313236 us
+
+***Time to Decrypt: 208172 us
+
+
+Execution 42
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 343261 us
+
+***Time to Decrypt: 228460 us
+
+
+Execution 43
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 311974 us
+
+***Time to Decrypt: 208062 us
+
+
+Execution 44
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 337714 us
+
+***Time to Decrypt: 224503 us
+
+
+Execution 45
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 343192 us
+
+***Time to Decrypt: 228917 us
+
+
+Execution 46
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 311054 us
+
+***Time to Decrypt: 206892 us
+
+
+Execution 47
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 339207 us
+
+***Time to Decrypt: 224927 us
+
+
+Execution 48
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 343276 us
+
+***Time to Decrypt: 228470 us
+
+
+Execution 49
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313053 us
+
+***Time to Decrypt: 209280 us
+
+
+Execution 50
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315336 us
+
+***Time to Decrypt: 212992 us
+
+
+Execution 51
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 345321 us
+
+***Time to Decrypt: 233158 us
+
+
+Execution 52
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 346062 us
+
+***Time to Decrypt: 233286 us
+
+
+Execution 53
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 320350 us
+
+***Time to Decrypt: 209137 us
+
+
+Execution 54
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 337569 us
+
+***Time to Decrypt: 224450 us
+
+
+Execution 55
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 320966 us
+
+***Time to Decrypt: 213984 us
+
+
+Execution 56
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 339870 us
+
+***Time to Decrypt: 228111 us
+
+
+Execution 57
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313219 us
+
+***Time to Decrypt: 207032 us
+
+
+Execution 58
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 337706 us
+
+***Time to Decrypt: 224057 us
+
+
+Execution 59
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315049 us
+
+***Time to Decrypt: 209121 us
+
+
+Execution 60
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315020 us
+
+***Time to Decrypt: 210349 us
+
+
+Execution 61
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 325212 us
+
+***Time to Decrypt: 217740 us
+
+
+Execution 62
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 339369 us
+
+***Time to Decrypt: 223942 us
+
+
+Execution 63
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313577 us
+
+***Time to Decrypt: 207552 us
+
+
+Execution 64
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315922 us
+
+***Time to Decrypt: 211512 us
+
+
+Execution 65
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 311642 us
+
+***Time to Decrypt: 207493 us
+
+
+Execution 66
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 331213 us
+
+***Time to Decrypt: 225975 us
+
+
+Execution 67
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 310699 us
+
+***Time to Decrypt: 205434 us
+
+
+Execution 68
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315941 us
+
+***Time to Decrypt: 208598 us
+
+
+Execution 69
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 340880 us
+
+***Time to Decrypt: 227417 us
+
+
+Execution 70
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 311450 us
+
+***Time to Decrypt: 207495 us
+
+
+Execution 71
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 340909 us
+
+***Time to Decrypt: 227077 us
+
+
+Execution 72
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 310651 us
+
+***Time to Decrypt: 205663 us
+
+
+Execution 73
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 321736 us
+
+***Time to Decrypt: 215755 us
+
+
+Execution 74
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 317792 us
+
+***Time to Decrypt: 212769 us
+
+
+Execution 75
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 324102 us
+
+***Time to Decrypt: 219036 us
+
+
+Execution 76
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 311368 us
+
+***Time to Decrypt: 205931 us
+
+
+Execution 77
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313602 us
+
+***Time to Decrypt: 208950 us
+
+
+Execution 78
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 318357 us
+
+***Time to Decrypt: 213636 us
+
+
+Execution 79
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 312638 us
+
+***Time to Decrypt: 208603 us
+
+
+Execution 80
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 323812 us
+
+***Time to Decrypt: 217196 us
+
+
+Execution 81
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 310468 us
+
+***Time to Decrypt: 205877 us
+
+
+Execution 82
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 356754 us
+
+***Time to Decrypt: 241862 us
+
+
+Execution 83
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 319176 us
+
+***Time to Decrypt: 214238 us
+
+
+Execution 84
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315694 us
+
+***Time to Decrypt: 208858 us
+
+
+Execution 85
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 312137 us
+
+***Time to Decrypt: 206732 us
+
+
+Execution 86
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 315919 us
+
+***Time to Decrypt: 210572 us
+
+
+Execution 87
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 310446 us
+
+***Time to Decrypt: 206111 us
+
+
+Execution 88
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 317444 us
+
+***Time to Decrypt: 210817 us
+
+
+Execution 89
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313119 us
+
+***Time to Decrypt: 207265 us
+
+
+Execution 90
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 314336 us
+
+***Time to Decrypt: 209441 us
+
+
+Execution 91
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 333388 us
+
+***Time to Decrypt: 226101 us
+
+
+Execution 92
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 311133 us
+
+***Time to Decrypt: 207038 us
+
+
+Execution 93
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 318634 us
+
+***Time to Decrypt: 211124 us
+
+
+Execution 94
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 313901 us
+
+***Time to Decrypt: 209199 us
+
+
+Execution 95
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 316773 us
+
+***Time to Decrypt: 211655 us
+
+
+Execution 96
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 319240 us
+
+***Time to Decrypt: 211157 us
+
+
+Execution 97
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 318156 us
+
+***Time to Decrypt: 212841 us
+
+
+Execution 98
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 319927 us
+
+***Time to Decrypt: 212973 us
+
+
+Execution 99
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 314276 us
+
+***Time to Decrypt: 208801 us
+
+
+Execution 100
+
+[INFO] Gerando chave NTRU...
+***Time to Encrypt: 321554 us
+
+***Time to Decrypt: 214158 us
+
+
