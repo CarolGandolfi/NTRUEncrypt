@@ -21,7 +21,7 @@ int main(int argc, char** argv) {
     params.N = 2003; // Deve ser >= tamanho da mensagem
     params.p = 257;
     params.q = 3343;
-    params.d = 13;
+    params.d = 16;
 
     // === GERAÇÃO DE CHAVES ===
     std::cout << "[INFO] Gerando chave NTRU..." << std::endl;
